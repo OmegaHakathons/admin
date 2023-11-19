@@ -1,0 +1,5 @@
+.gitignore
+.gitlab-ci.yaml
+.git
+dist
+node_modules
